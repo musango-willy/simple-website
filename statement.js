@@ -26,6 +26,44 @@
             console.log("no score")
     }
 
+    //for loop
+
+for(let number=2;number<=12;number++){
+
+    console.log(number);
+
+}
+
+// increment number by one
+
+
+for(let count=20;number>=5;count--){
+
+    console.log(count);
+
+}
+
+// decrements count by one
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // if -else statement
 
 
