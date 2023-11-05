@@ -44,3 +44,6 @@ const name="sharon";
 
 function call(){
     console.log(name)
+
+
+
